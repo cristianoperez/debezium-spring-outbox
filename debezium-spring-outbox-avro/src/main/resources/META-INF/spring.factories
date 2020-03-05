@@ -1,0 +1,3 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.github.cristianoperez.spring.outbox.OutboxObserver,\
+com.github.cristianoperez.spring.outbox.AvroSerializer
